@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Amazon-Clone/static/css/main.1315d1d0.chunk.css",
+    "main.js": "/Amazon-Clone/static/js/main.34921f70.chunk.js",
+    "main.js.map": "/Amazon-Clone/static/js/main.34921f70.chunk.js.map",
+    "runtime-main.js": "/Amazon-Clone/static/js/runtime-main.300eae63.js",
+    "runtime-main.js.map": "/Amazon-Clone/static/js/runtime-main.300eae63.js.map",
+    "static/js/2.2e9c401f.chunk.js": "/Amazon-Clone/static/js/2.2e9c401f.chunk.js",
+    "static/js/2.2e9c401f.chunk.js.map": "/Amazon-Clone/static/js/2.2e9c401f.chunk.js.map",
+    "index.html": "/Amazon-Clone/index.html",
+    "precache-manifest.609cf4ed38deb5ac1995bb4f98f91263.js": "/Amazon-Clone/precache-manifest.609cf4ed38deb5ac1995bb4f98f91263.js",
+    "service-worker.js": "/Amazon-Clone/service-worker.js",
+    "static/css/main.1315d1d0.chunk.css.map": "/Amazon-Clone/static/css/main.1315d1d0.chunk.css.map",
+    "static/js/2.2e9c401f.chunk.js.LICENSE.txt": "/Amazon-Clone/static/js/2.2e9c401f.chunk.js.LICENSE.txt",
+    "static/media/try_amazon_prime.jpg": "/Amazon-Clone/static/media/try_amazon_prime.8662a4a1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.300eae63.js",
+    "static/js/2.2e9c401f.chunk.js",
+    "static/css/main.1315d1d0.chunk.css",
+    "static/js/main.34921f70.chunk.js"
+  ]
+}
