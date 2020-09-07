@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/amazon_clone/static/css/main.1315d1d0.chunk.css",
-    "main.js": "/amazon_clone/static/js/main.e93bbc0c.chunk.js",
-    "main.js.map": "/amazon_clone/static/js/main.e93bbc0c.chunk.js.map",
+    "main.css": "/amazon_clone/static/css/main.37e26c89.chunk.css",
+    "main.js": "/amazon_clone/static/js/main.7c414355.chunk.js",
+    "main.js.map": "/amazon_clone/static/js/main.7c414355.chunk.js.map",
     "runtime-main.js": "/amazon_clone/static/js/runtime-main.158489df.js",
     "runtime-main.js.map": "/amazon_clone/static/js/runtime-main.158489df.js.map",
-    "static/js/2.2e9c401f.chunk.js": "/amazon_clone/static/js/2.2e9c401f.chunk.js",
-    "static/js/2.2e9c401f.chunk.js.map": "/amazon_clone/static/js/2.2e9c401f.chunk.js.map",
+    "static/js/2.83d55b65.chunk.js": "/amazon_clone/static/js/2.83d55b65.chunk.js",
+    "static/js/2.83d55b65.chunk.js.map": "/amazon_clone/static/js/2.83d55b65.chunk.js.map",
     "index.html": "/amazon_clone/index.html",
-    "precache-manifest.5c5b660b1721c38ec5a11a7e74182e87.js": "/amazon_clone/precache-manifest.5c5b660b1721c38ec5a11a7e74182e87.js",
+    "precache-manifest.7d52c1589fbe7675df8478b8c42d87a6.js": "/amazon_clone/precache-manifest.7d52c1589fbe7675df8478b8c42d87a6.js",
     "service-worker.js": "/amazon_clone/service-worker.js",
-    "static/css/main.1315d1d0.chunk.css.map": "/amazon_clone/static/css/main.1315d1d0.chunk.css.map",
-    "static/js/2.2e9c401f.chunk.js.LICENSE.txt": "/amazon_clone/static/js/2.2e9c401f.chunk.js.LICENSE.txt",
-    "static/media/try_amazon_prime.jpg": "/amazon_clone/static/media/try_amazon_prime.8662a4a1.jpg"
+    "static/css/main.37e26c89.chunk.css.map": "/amazon_clone/static/css/main.37e26c89.chunk.css.map",
+    "static/js/2.83d55b65.chunk.js.LICENSE.txt": "/amazon_clone/static/js/2.83d55b65.chunk.js.LICENSE.txt",
+    "static/media/backpack2.jpg": "/amazon_clone/static/media/backpack2.5c28f2a1.jpg",
+    "static/media/home_image.jpg": "/amazon_clone/static/media/home_image.e702f5ac.jpg",
+    "static/media/sonycamera.jpg": "/amazon_clone/static/media/sonycamera.505bc496.jpg",
+    "static/media/washing_machine.jpg": "/amazon_clone/static/media/washing_machine.8afa9c02.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.158489df.js",
-    "static/js/2.2e9c401f.chunk.js",
-    "static/css/main.1315d1d0.chunk.css",
-    "static/js/main.e93bbc0c.chunk.js"
+    "static/js/2.83d55b65.chunk.js",
+    "static/css/main.37e26c89.chunk.css",
+    "static/js/main.7c414355.chunk.js"
   ]
 }
