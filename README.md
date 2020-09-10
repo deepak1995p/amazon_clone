@@ -1,3 +1,4 @@
+Here are the diployed Link of website: http://deepak1995p.github.io/amazon_clone
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
