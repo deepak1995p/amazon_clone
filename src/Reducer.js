@@ -1,5 +1,11 @@
 export const initialState ={
-    basket:[]
+    basket:[{
+        id: "123456",
+        title: "Samsung 6.0 Kg Fully-Automatic 5 Star Front Loading Washing Machine (WW60R20GLMA/TL, White)",
+        price: 12000,
+        rating: 4,
+        image: "https://images-na.ssl-images-amazon.com/images/I/61JkCI7uuYL._SL1335_.jpg",
+    }]
 };
 
 function reducer(state, action){
