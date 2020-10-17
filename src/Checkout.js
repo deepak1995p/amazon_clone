@@ -22,15 +22,18 @@ function Checkout() {
                     <div>
                         <h2 className="checkout_title">your cart is here</h2>
 
-                        {basket.map(item => (
-                            <CheckoutProduct
-                                item={item.id}
-                                title={item.title}
-                                image={item.image}
-                                price={item.price}
-                                rating={item.rating}
-                            />
-                        ))}
+                        {basket?.map((item) =>{
+                            console.log('item--->>>>',item)
+                            return(
+                                <CheckoutProduct
+                                    id={item.id}
+                                    title={item.title}
+                                    image={item.image}
+                                    price={item.price}
+                                    rating={item.rating}
+                                />
+                            );
+                        })}
                     </div>
                 )}
 
