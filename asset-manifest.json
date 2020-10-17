@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/amazon_clone/static/css/main.37e26c89.chunk.css",
-    "main.js": "/amazon_clone/static/js/main.d3d8e98c.chunk.js",
-    "main.js.map": "/amazon_clone/static/js/main.d3d8e98c.chunk.js.map",
+    "main.css": "/amazon_clone/static/css/main.761dcdb0.chunk.css",
+    "main.js": "/amazon_clone/static/js/main.fb83d732.chunk.js",
+    "main.js.map": "/amazon_clone/static/js/main.fb83d732.chunk.js.map",
     "runtime-main.js": "/amazon_clone/static/js/runtime-main.158489df.js",
     "runtime-main.js.map": "/amazon_clone/static/js/runtime-main.158489df.js.map",
-    "static/js/2.8553f486.chunk.js": "/amazon_clone/static/js/2.8553f486.chunk.js",
-    "static/js/2.8553f486.chunk.js.map": "/amazon_clone/static/js/2.8553f486.chunk.js.map",
+    "static/js/2.d3314e13.chunk.js": "/amazon_clone/static/js/2.d3314e13.chunk.js",
+    "static/js/2.d3314e13.chunk.js.map": "/amazon_clone/static/js/2.d3314e13.chunk.js.map",
     "index.html": "/amazon_clone/index.html",
-    "precache-manifest.35ea201c7720b258a65322160c3e4aa8.js": "/amazon_clone/precache-manifest.35ea201c7720b258a65322160c3e4aa8.js",
+    "precache-manifest.14568f59e2df80400d6d9a95d44acaba.js": "/amazon_clone/precache-manifest.14568f59e2df80400d6d9a95d44acaba.js",
     "service-worker.js": "/amazon_clone/service-worker.js",
-    "static/css/main.37e26c89.chunk.css.map": "/amazon_clone/static/css/main.37e26c89.chunk.css.map",
-    "static/js/2.8553f486.chunk.js.LICENSE.txt": "/amazon_clone/static/js/2.8553f486.chunk.js.LICENSE.txt",
+    "static/css/main.761dcdb0.chunk.css.map": "/amazon_clone/static/css/main.761dcdb0.chunk.css.map",
+    "static/js/2.d3314e13.chunk.js.LICENSE.txt": "/amazon_clone/static/js/2.d3314e13.chunk.js.LICENSE.txt",
     "static/media/backpack2.jpg": "/amazon_clone/static/media/backpack2.5c28f2a1.jpg",
-    "static/media/chair.jpg": "/amazon_clone/static/media/chair.cb077b3d.jpg",
+    "static/media/checkout_img.JPG": "/amazon_clone/static/media/checkout_img.3fb31a98.JPG",
     "static/media/home_image.jpg": "/amazon_clone/static/media/home_image.e702f5ac.jpg",
     "static/media/sonycamera.jpg": "/amazon_clone/static/media/sonycamera.505bc496.jpg",
     "static/media/washing_machine.jpg": "/amazon_clone/static/media/washing_machine.8afa9c02.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.158489df.js",
-    "static/js/2.8553f486.chunk.js",
-    "static/css/main.37e26c89.chunk.css",
-    "static/js/main.d3d8e98c.chunk.js"
+    "static/js/2.d3314e13.chunk.js",
+    "static/css/main.761dcdb0.chunk.css",
+    "static/js/main.fb83d732.chunk.js"
   ]
 }
